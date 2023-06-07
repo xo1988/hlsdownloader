@@ -13,8 +13,8 @@
 * 下载点播内容到本地
 
 # 截图
-![](./assets/001.png)
-![](./assets/002.png)
+![](./assets/001.jpg)
+![](./assets/002.jpg)
 
 # 其他
 [说明文档](https://xyccstudio.cn/books/hlsdownloader/)
